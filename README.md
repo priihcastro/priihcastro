@@ -1,7 +1,9 @@
-## Olá! Eu sou a Priscila Castro 👋
+## Olá, eu sou a Priscila. Seja bem-vindo(a) ao meu GitHub! 👋
 
-- 🎓 Faço Bacharelado em Engenharia de Software
+- 🎓 Faço Bacharelado em Engenharia de Software (3º Semestre)
 - 🌱 Estudando Java
+- 💻 Participando do Santander Bootcamp Fullstack Developer
+- 💙 Me acompanhe na DIO: https://web.dio.me/users/priscila332244
 
 <div>
   <a href="https://github.com/priihcastro">
