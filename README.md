@@ -2,7 +2,6 @@
 
 - 🎓 Faço Bacharelado em Engenharia de Software (3º Semestre)
 - 🌱 Estudando Java
-- 💻 Participando do Santander Bootcamp Fullstack Developer
 - 💙 Me acompanhe na DIO: https://web.dio.me/users/priscila332244
 
 <div>
