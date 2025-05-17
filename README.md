@@ -1,7 +1,6 @@
 ## Olá, eu sou a Priscila. Seja bem-vindo(a) ao meu GitHub! 👋
 
-- 🎓 Faço Bacharelado em Engenharia de Software (3º Semestre)
-- 🌱 Estudando JavaScript
+- 🌱 Estudando IA
 - 💙 Me acompanhe na DIO: https://web.dio.me/users/priscila332244
 
 <div>
