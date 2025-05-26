@@ -1,7 +1,9 @@
 ## Olá, eu sou a Priscila. Seja bem-vindo(a) ao meu GitHub! 👋
 
-- 🌱 Estudando IA
+- 🌱 Estudando IA e C#
+- 💼 LinkedIn: https://www.linkedin.com/in/pri-castro/
 - 💙 Me acompanhe na DIO: https://web.dio.me/users/priscila332244
+
 
 <div>
   <a href="https://github.com/priihcastro">
